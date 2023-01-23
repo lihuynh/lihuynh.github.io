@@ -6,4 +6,22 @@
   gtag('js', new Date());
 
   gtag('config', 'G-3TM2M496T7');
+  
+  document.addEventListener("DOMContentLoaded", () => {
+    
+    const readButton = document.getElementById("read")
+    readButton.addEventListener("click", onClickRead)
+    
+  })
+  
+  function onClickRead(){
+    
+    gtag('event','read_article', {
+    "author":"Bill Q",
+    "title":"Hur man tillverkar en ryggsäck",
+    "number_of_characters":100,
+    });
+  
+  }
+  
 </script>

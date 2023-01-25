@@ -13,3 +13,4 @@ Vestibulum posuere, nisi in feugiat lobortis, magna ex euismod est, nec varius e
 <button>Läst klart</button>
 
 [Thanks](/thank-you)
+[Purchase](/purchase-complete)

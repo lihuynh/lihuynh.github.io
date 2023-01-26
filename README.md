@@ -12,5 +12,7 @@ Etiam enim quam, vulputate et accumsan ut, tristique ac felis. Praesent luctus u
 Vestibulum posuere, nisi in feugiat lobortis, magna ex euismod est, nec varius erat leo eget ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas vulputate sodales efficitur. Donec et convallis nibh. Praesent nec lorem dolor. Cras sapien odio, interdum in turpis ultrices, maximus suscipit ligula. Vivamus rhoncus tortor lectus, id tristique massa maximus sed. Ut malesuada tortor sit amet urna semper mollis. Etiam auctor at felis vitae mattis. Sed eu gravida libero. Praesent et tellus ex.
 <button>Läst klart</button>
 
+[Articles](/articles)
+
 [Thanks](/thank-you)
 [Purchase](/purchase-complete)

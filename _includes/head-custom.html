@@ -7,21 +7,37 @@
 
   gtag('config', 'G-3TM2M496T7');
   
-  document.addEventListener("DOMContentLoaded", () => {
-    
-    const readButton = document.getElementById("read")
-    readButton.addEventListener("click", onClickRead)
-    
-  })
-  
-  function onClickRead(){
-    
+  function onClickRead(title, reeadingTime) {
     gtag('event','read_article', {
-    "author":"Bill Q",
-    "title":"Hur man tillverkar en ryggsäck",
-    "number_of_characters":100,
+      "author": "Lisa H",
+      "title": title,
+      "reading_time": readingTime,
     });
   
   }
+  
+  document.addEventListener("DOMContentLoaded", () => {
+    
+    //Skickar event till artikel 1
+    document.getElementById("article1").addEventListener("click", () => {
+      onClickRead("Den onda häxan", 5)
+    });
+    
+     document.getElementById("article2").addEventListener("click", () => {
+      onClickRead("Svarta äpplet", 31)
+    });
+    
+     document.getElementById("article3").addEventListener("click", () => {
+      onClickRead("Hämnden är nära", 2)
+    });
+    
+     document.getElementById("article4").addEventListener("click", () => {
+      onClickRead("Slutet", 7)
+    });
+    
+    
+  });
+  
+
   
 </script>

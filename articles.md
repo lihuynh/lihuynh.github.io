@@ -1,8 +1,3 @@
-<style>
-  #artikel1, #artikel2, #artikel3, #artikel4 {
-    backgroundcolor: #FFF;
-  }
-  </style>
 # Articles
 
 ## Article 1

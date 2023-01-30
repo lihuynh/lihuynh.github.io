@@ -14,5 +14,8 @@ Vestibulum posuere, nisi in feugiat lobortis, magna ex euismod est, nec varius e
 
 [Articles](/articles)
 
+[GTM](/gtm)
+
 [Thanks](/thank-you)
+
 [Purchase](/purchase-complete)

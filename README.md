@@ -20,4 +20,6 @@ Vestibulum posuere, nisi in feugiat lobortis, magna ex euismod est, nec varius e
 
 [Purchase](/purchase-complete)
 
-[Subscribed](/subscribed)
+[Subscribe 50](/subscribed) |
+[Subscribe 250](/subscribed) |
+[Subscribe 500](/subscribed) |

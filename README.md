@@ -20,6 +20,6 @@ Vestibulum posuere, nisi in feugiat lobortis, magna ex euismod est, nec varius e
 
 [Purchase](/purchase-complete)
 
-< a href="/subscribed" data-subvalue="50">Subscribe 50</a>
-< a href="/subscribed" data-subvalue="250">Subscribe 250</a>
-< a href="/subscribed" data-subvalue="500">Subscribe 500</a>
+<a href="/subscribed" data-subvalue="50">Subscribe 50</a>
+<a href="/subscribed" data-subvalue="250">Subscribe 250</a>
+<a href="/subscribed" data-subvalue="500">Subscribe 500</a>
